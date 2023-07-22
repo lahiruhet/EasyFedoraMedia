@@ -1,6 +1,6 @@
-**Fedora-initsetup**
+# EasyFedoraMedia
 
-Fedora-initsetup is a script that automates the installation of multimedia packages and codecs on a fresh install of Fedora.
+EasyFedoraMedia is a script that automates the installation of multimedia packages and codecs on a fresh install of Fedora.
 
 **What does it do?**
 
